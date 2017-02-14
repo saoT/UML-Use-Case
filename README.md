@@ -12,3 +12,14 @@ Prenons l'exemple de notre application :
 + Les deux auront une interface pour laisser un avis sur leur expérience.
 
 ![Diagramme de use-case](https://raw.githubusercontent.com/simplonco/UML-Use-Case/master/use-case.jpg)
+
+##Les outils
+Pour faire un use case avec StarUML c'est très simple :
+
+Step 1 : Créer un model de use-case.
+
+![Diagramme de use-case](https://raw.githubusercontent.com/simplonco/UML-Use-Case/master/starUML-Actor.png)
+
+Step 2 : Récupérer les éléments dans mon toolbox.
+
+![Diagramme de use-case](https://raw.githubusercontent.com/simplonco/UML-Use-Case/master/starUML-create.png)
