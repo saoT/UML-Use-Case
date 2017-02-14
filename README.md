@@ -11,4 +11,4 @@ Prenons l'exemple de notre application :
 + Seul le réparateur aura une interface pour prendre en charge une réparation.
 + Les deux auront une interface pour laisser un avis sur leur expérience.
 
-[Diagramme de use-case](https://raw.githubusercontent.com/simplonco/UML-Use-Case/master/use-case.jpg)
+![Diagramme de use-case](https://raw.githubusercontent.com/simplonco/UML-Use-Case/master/use-case.jpg)
