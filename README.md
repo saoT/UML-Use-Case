@@ -1,5 +1,22 @@
 
-#Diagramme de Use-Case
+# Diagramme de Use-Case
+
+Ce chapitre s'inscrit dans le module diagramme [Diagramme UML](https://github.com/simplonco/Diagrammes-UML).
+
+1. [ ] [Diagramme Use-Case](https://github.com/simplonco/UML-Use-Case)
+	
+2. [ ] [Diagramme de séquence](https://github.com/simplonco/UML-Sequence)
+	
+3. [ ] [Diagramme d'intéraction](https://github.com/simplonco/UML-Interaction)
+	
+4. [x] [Diagramme de classe](https://github.com/simplonco/UML-Class)
+
+Vous pouvez trouver ce module dans les parcours suivants :
+
++ Développeur Web Fullstack
+
+------------
+
 Le plus basique, et celui qui doit constituer la **première étape** du montage de votre cahier des charges est le **use-case**.
 
 Le diagramme doit être le plus simple possible et a un but unique : **lister les différentes utilisations de mon produit**. Chaque type d'utilisateur est représenté par un stickman et chaque actions liées à un ou plusieurs type d'utilisateur.
