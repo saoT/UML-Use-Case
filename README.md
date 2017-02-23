@@ -3,13 +3,13 @@
 
 Ce chapitre s'inscrit dans le module diagramme [Diagramme UML](https://github.com/simplonco/Diagrammes-UML).
 
-1. [ ] [Diagramme Use-Case](https://github.com/simplonco/UML-Use-Case)
+1. [x] [Diagramme Use-Case](https://github.com/simplonco/UML-Use-Case)
 	
 2. [ ] [Diagramme de séquence](https://github.com/simplonco/UML-Sequence)
 	
 3. [ ] [Diagramme d'intéraction](https://github.com/simplonco/UML-Interaction)
 	
-4. [x] [Diagramme de classe](https://github.com/simplonco/UML-Class)
+4. [ ] [Diagramme de classe](https://github.com/simplonco/UML-Class)
 
 Vous pouvez trouver ce module dans les parcours suivants :
 
