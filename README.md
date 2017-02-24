@@ -4,7 +4,7 @@
 
 # Diagramme de Use-Case
 
-Ce chapitre s'inscrit dans le module diagramme [Diagramme UML](https://github.com/simplonco/Diagrammes-UML).
+Ce chapitre s'inscrit dans le module [Diagramme UML](https://github.com/simplonco/Diagrammes-UML).
 
 1. [x] [Diagramme Use-Case](https://github.com/simplonco/UML-Use-Case)
 	
